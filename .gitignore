@@ -1,3 +1,6 @@
 node_modules/
 dist/
-.parcel-cache
+.parcel-cachenode_modules/
+.parcel-cache/
+dist/
+.DS_Store
